@@ -3,9 +3,6 @@ body {
     grid-template-areas: 
     "aside header"
     "aside main";
-}
-
-.menu-lateral {
     grid-template-columns: auto 1fr;
 }
 
